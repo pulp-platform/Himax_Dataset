@@ -1,11 +1,11 @@
 # Himax Dataset
 
 ```
-├── Himax_Dataset
-│    ├── test_2
-│    ├── test_10
-│    ├── test_15
-│    ├── test_23
+├── Himax_Dataset/
+│    ├── test_2/
+│    ├── test_10/
+│    ├── test_15/
+│    ├── test_23/
 ├── LICENSE.apache.md
 ├── README.md
 ```
