@@ -1,12 +1,12 @@
 # Himax Dataset
 
-`
-Himax
-+-- test_2
-+-- test_10
-+-- test_15
-+-- test_23
-`
+```
+├── Himax
+    ├── test_2
+    ├── test_10
+    ├── test_15
+    ├── test_23
+```
 
 The *Himax* dataset has been collected at ETH Zürich using a Himax ultra-low power, gray-scale, and QVGA camera.
 The dataset has been used for testing the inference capability of our [PULP-DroNet](https://github.com/pulp-platform/pulp-dronet), and it extends the testing dataset previously introduced in [DroNet](https://github.com/uzh-rpg/rpg_public_dronet) with the Himax set.
