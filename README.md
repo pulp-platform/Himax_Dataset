@@ -6,8 +6,8 @@
 │    ├── test_10/
 │    ├── test_15/
 │    ├── test_23/
-├── LICENSE.apache.md
-├── README.md
+│    ├── LICENSE.apache.md
+│    ├── README.md
 ```
 
 The *Himax* dataset has been collected at ETH Zürich using a Himax ultra-low power, gray-scale, and QVGA camera.
